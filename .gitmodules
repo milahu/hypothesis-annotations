@@ -1,0 +1,3 @@
+[submodule "hypothesis-annotations-scraper"]
+	path = hypothesis-annotations-scraper
+	url = https://github.com/milahu/hypothesis-annotations-scraper
